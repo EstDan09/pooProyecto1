@@ -2,8 +2,11 @@ com\mycompany\pooproyecto1\Aerial.class
 com\mycompany\pooproyecto1\MainMenu.class
 com\mycompany\pooproyecto1\Defensive.class
 com\mycompany\pooproyecto1\MainMenu$3.class
+com\mycompany\pooproyecto1\GameGrid$1.class
+com\mycompany\pooproyecto1\GameGrid.class
 com\mycompany\pooproyecto1\Game$1.class
 com\mycompany\pooproyecto1\Hostile.class
+com\mycompany\pooproyecto1\Game$2.class
 com\mycompany\pooproyecto1\Impact.class
 com\mycompany\pooproyecto1\Entity.class
 com\mycompany\pooproyecto1\Config$1.class
